@@ -7,13 +7,13 @@ Play against the computer, keep track of scores, and enjoy the classic hand game
 
 ## 🚀 Live Demo
 👉 [Play the game here](https://sathvik-04.github.io/Rock-Paper-Scissors-game/)  
-*(Enable GitHub Pages in your repo settings to make this link work)*
+
 
 ---
 
 ## 📸 Preview
 ![Game Preview](./screenshot.png)  
-*(Add a screenshot of your game and rename it `screenshot.png`)*
+
 
 ---
 
